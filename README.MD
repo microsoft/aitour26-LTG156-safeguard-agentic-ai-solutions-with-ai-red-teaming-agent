@@ -11,7 +11,7 @@
 
 
 > [!IMPORTANT]  
-> if you are a session speaker _delivering_ this session, start by reviewing the [session delivery guidance](./session-delivery-resources/readme.md) for slides and demos.
+> **Are you a speaker delivering this session?** - Start by [reviewing the session delivery guidance](./session-delivery-resources/readme.md) to download the slides, setup demos, and familiarize yourself with the delivery.
 
 <br/>
 
@@ -22,27 +22,28 @@ Enterprise-grade agentic AI solutions need to proactively assess risks and mitig
 
 ### 🧠 Learning Outcomes
 
-By the end of this session, learners will be able to:
+By the end of this session, attendees should be able to:
 
-- Learn about adversarial testing - from risk categories to attack strategies
-- Use the AI Red Teaming agent - to assess AI models and agents for risks
-- Learn to run AI Red Teaming scans (local & cloud) - and analyze results
+1. Explain what red teaming is - and why adversarial testing is key to trustworthy AI.
+1. Understand popular risk categories and attack strategies used by adversaries.
+1. Describe how the AI Red Teaming Agent works to safeguard agentic AI solutions.
+1. Plan and execute AI Red Teaming Agent scans (local & cloud) - and analyze the reports.
 
 ### 💻 Technologies Used
 
-1. [Microsoft Foundry](https://learn.microsoft.com/azure/ai-foundry/what-is-azure-ai-foundry?ocid=AITour26_resourcecenter_cnl) - Unified platform for developing and deploying generative AI applications with enterprise-grade security
+1. [Microsoft Foundry](https://learn.microsoft.com/azure/ai-foundry/what-is-azure-ai-foundry?ocid=AITour26_resourcecenter_cnl) - Unified platform for end-to-end development of enterprise-grade agentic AI.
 1. [AI Red Teaming Agent](https://learn.microsoft.com/azure/ai-foundry/concepts/ai-red-teaming-agent?ocid=AITour26_resourcecenter_cnl) - Automated tool for proactively identifying safety risks in generative AI systems
 1. [PyRIT](https://azure.github.io/PyRIT/?ocid=AITour26_resourcecenter_cnl) - Python Risk Identification Tool for generative AI red teaming and adversarial testing
 
 ### 🔗 Session Resources
 | Resources          | Links                             | Description        |
 |:-------------------|:----------------------------------|:-------------------|
-| AI Red Teaming Agent Overview | [Microsoft Foundry - AI Red Teaming Agent](https://learn.microsoft.com/azure/ai-foundry/concepts/ai-red-teaming-agent?ocid=AITour26_resourcecenter_cnl) | Learn about the AI Red Teaming Agent and how it helps identify safety risks |
-| Run AI Red Teaming Scans Locally | [Run Scans with AI Red Teaming Agent](https://learn.microsoft.com/azure/ai-foundry/how-to/develop/run-scans-ai-red-teaming-agent?ocid=AITour26_resourcecenter_cnl) | Step-by-step guide to running automated security scans |
+| Browse the documentation| [Microsoft Foundry - AI Red Teaming Agent](https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/develop/run-ai-red-teaming-cloud?view=foundry&tabs=python)) | AI Red Teaming overview & getting started with local & cloud scans |
 | PyRIT Documentation | [Python Risk Identification Tool (PyRIT)](https://azure.github.io/PyRIT/?ocid=AITour26_resourcecenter_cnl) | Microsoft's open-source framework for AI red teaming |
-| AI Security Best Practices | [Continuous AI Red Teaming](https://learn.microsoft.com/security/benchmark/azure/mcsb-v2-artificial-intelligence-security?ocid=AITour26_resourcecenter_cnl#ai-7-perform-continuous-ai-red-teaming) | Azure security baseline for AI red teaming practices |
-| Microsoft Ignite 2025 Dev Blog | [Assess Agentic Risks with AI Red Teaming Agent](https://devblogs.microsoft.com/foundry/assess-agentic-risks-with-the-ai-red-teaming-agent-in-microsoft-foundry/) | Latest enhancements to AI Red Teaming Agent in Microsoft Foundry |
-| Microsoft Ignite Lab 516 | [Safeguard Your Agents Workshop](https://github.com/microsoft/ignite25-LAB516-safeguard-your-agents-with-ai-red-teaming-agent-in-microsoft-foundry) | Learn to run local and cloud based AI red teaming scans for a retail scenario in this hands-on workshop |
+| Red Teaming Technical Blog | [Assess Agentic Risks with AI Red Teaming Agent](https://devblogs.microsoft.com/foundry/assess-agentic-risks-with-the-ai-red-teaming-agent-in-microsoft-foundry/) | Latest features & capabilities from Microsoft Ignite (Nov 2025) |
+| Pre-Recorded Session Video | [Model Mondays Replay (Dec 2025)](https://www.youtube.com/watch?v=70OCsYjOsbs) | Walkthrough of slides & demo by Minsoo Thigpen (Core AI PM)|
+| Hands-on Dev Workshop | [Safeguard Your Agents Workshop](https://github.com/microsoft/ignite25-LAB516-safeguard-your-agents-with-ai-red-teaming-agent-in-microsoft-foundry) | 90-minute workshop run at Microsoft Ignite 2025 (step-by-step) |
+| | |
 
 ### 📚 Continued Learning Resources
 | Resources          | Links                             | Description        |
@@ -78,6 +79,13 @@ By the end of this session, learners will be able to:
         <sub><b>Minsoo Thigpen
 </b></sub></a><br />
             <a href="https://github.com/minthigpen" title="talk">📢</a> 
+    </td>
+    <td align="center"><a href="http://github.com/slister1001">
+        <img src="https://github.com/slister1001.png" width="100px;" alt="Sydney Lister
+"/><br />
+        <sub><b>Sydney Lister
+</b></sub></a><br />
+            <a href="https://github.com/slister1001" title="talk">📢</a> 
     </td>
 </tr></table>
 
